@@ -30,8 +30,8 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="AboutUs.jsp">About Us</a></li>
-            <li><a href="ContactUs.jsp">Contact Us</a></li>
+            <li><a href="RegisterAuthority.jsp">Add Admin</a></li>
+            <li><a href="logout">Log Out</a></li>
             <li><a href="Marks.jsp">Upload Student Marks</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="RemoveByAdmin.jsp">Remove Other Authority</a></li>
@@ -41,7 +41,6 @@
         </li>
       </ul>
 
-
       <ul class="nav navbar-nav navbar-right">
         <li><a href="logout">Logout</a></li>
         <li class="dropdown">
@@ -49,9 +48,9 @@
           <ul class="dropdown-menu">
             <li><a href="RegisterAuthority.jsp">Add Other Admin</a></li>
             <li><a href="RemoveByAdmin.jsp">Remove Other Admin</a></li>
-            <li><a href="AboutUs.jsp">About Us</a></li>
+            <li><a href="Marks.jsp">Upload Marks Of B.Tech</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="ContactUs.jsp">Contact Us</a></li>
+            <li><a href="Marks.jsp">Upload Marks Of BBA</a></li>
           </ul>
         </li>
       </ul>

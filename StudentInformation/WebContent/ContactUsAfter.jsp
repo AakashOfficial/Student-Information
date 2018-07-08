@@ -4,16 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Admin Home</title>
+<title>Thankyou For Contact Us</title>
 </head>
 <body>
+<%@include file="ContactUs.jsp" %>
 
-<%@include file="HeaderAdmin.jsp" %>
-
-<br><br>
-<h1><marquee>Welcome Admin</marquee></h1>
-<br><br>
-
-<%@include file="FooterAdmin.jsp" %>
+<script>
+alert("Thankyou For Contact. We will Contact you Later");
+</script>
 </body>
 </html>

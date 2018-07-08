@@ -1,0 +1,145 @@
+/****************************************************************************************/
+             /* For Login Page,Registration Page and Marks Page (Upload Admin) */
+/****************************************************************************************/
+        .form-bg{padding:40px;background:#f1f1f1;}
+.shadow { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.form-control:focus {
+	border-color: #ff80ff !important;
+	background: #ffffff !important;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+	
+}
+
+/****************************************************************************************/
+                                    /* For Contact Page */
+/****************************************************************************************/
+.contact-heading{
+	font-size:60px;
+	color:#1480D8;
+	text-decoration:underline;
+}
+
+.contact-form{
+	padding:50px;
+	
+}
+
+.contact-form > form > span{
+	font-size:20px;
+	font-weight:bold;
+	padding:10px;
+}
+
+
+.contact-input{
+	font-size:18px;
+	color:#151515;
+	padding:25px;
+	border:1px solid #1480D8;
+	background-color:transparent;
+	width:100%;
+	height:20px;
+	margin-bottom:20px;
+	border-radius:3px;
+	transition:all 1s ease;
+	-webkit-transition:all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+}
+.contact-input:focus{
+	background-color:#636363;
+	color:#fff;
+}
+.txt-area{
+	padding:10px;
+	font-size:18px;
+	float:left;
+width: 100%;
+min-height: 75px;
+outline: none;
+resize:vertical;
+border-radius:3px;
+border: 1px solid #1480D8;
+background-color:transparent;
+transition:all 1s ease;
+	-webkit-transition:all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+}
+
+.txt-area:focus{
+	background-color:#636363;
+	color:#fff;
+}
+
+.btn-send{
+	background-color:#1480D8;
+	color:#fff;
+	border:3px solid transparent;
+	font-size:30px;
+	text-align:center;
+	padding:20px;
+	border-radius:2px;
+	margin-top:  45%;
+		transition:all 1s ease;
+	-webkit-transition:all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+}
+.btn-send:hover{
+	background-color:transparent;
+	color:#1480D8;
+	border-color:#1480D8;
+}
+.contact-sec{
+	padding-top:8%;
+	padding-bottom:8%;
+}
+
+
+/****************************************************************************************/
+                                 /* For Footer */
+/****************************************************************************************/
+        .footer {
+    background: #222222 none repeat scroll 0 0;
+    border-top: 4px solid #fcab0e;
+    margin: 0;
+    padding: 20px 0;
+}
+.footer_dv {
+    width: 100%;
+}
+.footer_dv h4 {
+    color: #fcab0e;
+    font-family: roboto;
+    font-weight: bold;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+.footer_dv ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.footer_dv ul li:first-child {
+    border-top: medium none;
+    box-shadow: none;
+}
+.footer_dv ul li {
+    border-top: 1px solid #000;
+    box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.2);
+    color: #f1f2f2;
+    padding: 5px 0;
+}
+.footer_dv p {
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 0 15px;
+    text-align: justify;
+}
+
+/****************************************************************************************/
+                                /*  */
+/****************************************************************************************/
+

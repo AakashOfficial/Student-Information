@@ -7,8 +7,9 @@
 <body>
 
 <%@include file="HeaderUser.jsp" %>
-
-
+<br><br>
+<h1><marquee>Welcome Student</marquee></h1>
+<br><br>
 <%@include file="FooterUser.jsp" %>
 
 </body>

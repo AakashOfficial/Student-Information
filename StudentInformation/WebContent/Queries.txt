@@ -1,0 +1,12 @@
+create table student(system_id varchar(30),roll_no varchar(10),role varchar(30),name varchar(30),course varchar(30),branch varchar(30),section char(2),address varchar(30),email_id varchar(30),date_of_birth varchar(30));
+
+
+================================================================================================================================================================
+create table authentication(id varchar(30),password varchar(30),role varchar(30),name varchar(30),address varchar(30)); 
+insert into authentication values('1','1','Admin','Aakash','Hapur'); 
+ 
+ ==============================================================================================================================================================
+ create table B_Tech_Marks (system_id varchar(30),branch varchar(30),Algorithm varchar(10),Data_structure varchar(10),java varchar(10),Operating_system varchar(10),Graph_Theory varchar(10));
+ 
+ ==============================================================================================================================================================
+ create table bba_Marks (system_id varchar(30),course varchar(30),Economics varchar(10),Business_management varchar(10),accounting varchar(10),marketing varchar(10),project_work varchar(10));

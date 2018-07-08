@@ -1,16 +1,45 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Contact Us </title>
+    <meta charset="utf-8">
+    <title>Contact Form</title>
+    <link href="CSS.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
-
 <%@include file="HeaderUser.jsp" %>
 
-<%@include file="FooterUser.jsp" %>
+<section class="contact-sec">
+	<div class="container-fluid ">
+<div class="row">
+  <div class="col-md-12 col-sm-12 col-xs-12">
+  		<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8 col-sm-8 col-x-12">
+    <div class="contact-heading">
+    	<p>Contact us</p>
+    </div>
+    <div class="contact-form">
+    	<form>
+        <span>Full Name</span>
+        	<input class="contact-input" type="text" role="textbox" placeholder="Enter Your Name Here..">
+            <span>Email</span>
+            <input class="contact-input" type="email" role="textbox" placeholder="Enter Email Here..">
+            <span>Your Message</span>
+            <textarea class="txt-area" rows="20" cols="100" placeholder="Write your message here.."></textarea>           
+        </form>	
+        </div>          
+    </div>
+    <div class="col-md-2"></div>
+</div>			
+      <div style="padding:50px;">
+         <center><a href="ContactUsAfter.jsp" class="btn-send">Send</a></center>
+      </div>
+  </div>
+</div>
+</div>
+</section>
 
+<%@include file="FooterUser.jsp" %>
 </body>
 </html>
