@@ -9,7 +9,18 @@
 <body>
 
 <%@include file="HeaderUser.jsp" %>
-
+<br><br>
+        <center>
+    	<h1>About Us</h1><br>
+   
+       <p> Designed By ---  Elyas Baray<br><br>
+       
+           Email ---  <br><br>
+       
+           Mobile No. ---  <br><br>        
+ </p>
+   </center>     
+<br><br>
 <%@include file="FooterUser.jsp" %>
 
 </body>
