@@ -56,12 +56,11 @@
             	<div class="footer_dv">
                 	<h4>Services</h4>
                 	<ul>
-                    	<li class="line_rv"><a href="canon-printer-support.php">Quick Links</a></li>               
-                        <li><a href="Login.jsp">Logout</a></li>
-                        <li><a href="#">Update Name</a></li>
-                        <li><a href="#">Update Email</a></li>
-                        <li><a href="#">Update Address</a></li>
-                        <li><a href="#">Update Number</a></li>
+                    	<li class="line_rv"><a href="logout">Log Out</a></li>               
+                        <li><a href="UpdateUser.jsp">Update Whole Account</a></li>
+                        <li><a href="UpdateUser.jsp">Update Name</a></li>
+                        <li><a href="UpdateUser.jsp">Update Email</a></li>
+                        <li><a href="UpdateUser.jsp">Update Address</a></li>
                     </ul>
                 </div>
             </div>
@@ -70,10 +69,10 @@
                 	<h4>Services</h4>
                 	<ul>
                     	<li><a href="HomeUser.jsp">Home</a></li>
-                        <li><a href="#">Marks</a></li>
-                        <li><a href="#">Register Another User</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Contact Us</a></li>                      
+                        <li><a href="ShowMarks.jsp">Marks</a></li>
+                        <li><a href="RegisterUser.jsp">Register Another User</a></li>
+                        <li><a href="AboutUs.jsp">About Us</a></li>
+                        <li><a href="ContactUs.jsp">Contact Us</a></li>                      
                     </ul>
                 </div>
             </div>

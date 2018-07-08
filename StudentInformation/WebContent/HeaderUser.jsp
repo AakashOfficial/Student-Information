@@ -44,9 +44,9 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/logout">Logout</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Actions <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Update Information</a></li>
+            <li><a href="ShowMarks.jsp">View Marks</a></li>
             <li><a href="AboutUs.jsp">About Us</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="ContactUs.jsp">Contact Us</a></li>

@@ -57,7 +57,7 @@
                 	<h4>Services</h4>
                 	<ul>
                     	<li class="line_rv">Admin Setting</li>               
-                        <li><a href="/logout">Logout</a></li>
+                        <li><a href="logout">Logout</a></li>
                         <li><a href="Marks.jsp">Upload Student Marks</a></li>
                         <li><a href="RemoveByAdmin.jsp">Remove Student</a></li>
                         <li><a href="RemoveByAdmin.jsp">Remove Authorities</a></li>
