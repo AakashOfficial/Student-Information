@@ -10,6 +10,7 @@
 </head>
 <body>
 <%@include file="HeaderUser.jsp" %>
+	
 <div class="container">
 	<div class="row">
 	<div class="col-md-9 form-space">
@@ -58,4 +59,3 @@
 <%@include file="FooterUser.jsp" %>
 </body>
 </html>
-
