@@ -81,4 +81,3 @@ alert("Only Students can Be Registered Through Page");
 </script>
 </body>
 </html>
-
