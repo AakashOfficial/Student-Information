@@ -33,4 +33,3 @@ alert("Are You Confirm to Remove Authority or Student. This action can not be un
 </script>
 </body>
 </html>
-
