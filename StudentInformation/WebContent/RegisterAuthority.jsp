@@ -56,3 +56,4 @@ alert("Only Admin and Faculty can be Registered. Dont Register Student Here");
 </script>
 </body>
 </html>
+
