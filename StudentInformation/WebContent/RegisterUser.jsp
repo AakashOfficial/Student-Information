@@ -10,6 +10,7 @@
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 </head>
 <body>
+	
 <div class="container">
 	<div class="row">
 	<div class="col-md-9 form-space">
@@ -81,4 +82,3 @@ alert("Only Students can Be Registered Through Page");
 </script>
 </body>
 </html>
-
