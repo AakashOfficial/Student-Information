@@ -9,6 +9,7 @@
 <body>
 
 <%@include file="HeaderAdmin.jsp" %>
+    
 <br><br>
 <h1>Are You Sure To Remove. This Cat Not Be UnDone</h1>
 <br><br>
@@ -33,4 +34,3 @@ alert("Are You Confirm to Remove Authority or Student. This action can not be un
 </script>
 </body>
 </html>
-
